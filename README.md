@@ -9,7 +9,6 @@
   <br>
   <h3>Tecnologias:</h3>
   <div style="display: inline_block">
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Node JS-339933?style=for-the-badge&logo=node.js&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
     <img src="https://img.shields.io/badge/-React JS-61DAFB?style=for-the-badge&logo=react&logoColor=white" target="_blank">
